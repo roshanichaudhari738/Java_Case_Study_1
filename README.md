@@ -129,6 +129,15 @@ Acc:201 WITHDRAW 2000 2025-11-28 14:02:11
 - **Console-based UI**
 
 ---
+## 📘 UML Class Diagram
+
+Below is the UML diagram representing the full architecture:
+
+![Class Diagram](https://github.com/roshanichaudhari738/Java_Case_Study_1/blob/main/Diagram.drawio.png)
+
+UML diagram
+
+---
 
 ## 🙌 Author
 **Roshani Chaudhari**
