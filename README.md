@@ -45,7 +45,7 @@ JavaCaseStudy1/
 
 ├── README.md
 
-└── BankTest/
+└── BankTest
 
 
 ---
