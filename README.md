@@ -84,6 +84,7 @@ javac BankTest.java
 
 3. Run the main file:
 
+java Practise.BankTest
 
 ---
 
@@ -114,7 +115,7 @@ javac BankTest.java
 
 ## 📒 **Transaction Record Format**
 
-Acc:101 DEPOSIT 5000 2025-11-28 13:20:15
+Acc:101 DEPOSIT 5000 2025-11-28 13:20:15 \n
 Acc:201 WITHDRAW 2000 2025-11-28 14:02:11
 
 
