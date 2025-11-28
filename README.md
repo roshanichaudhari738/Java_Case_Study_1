@@ -40,6 +40,10 @@ EOD (End-of-Day) reporting.
 
 ## 📂 Project Structure  
 
+JavaCaseStudy1/
+│
+├── README.md
+└── BankTest/
 
 
 ---
